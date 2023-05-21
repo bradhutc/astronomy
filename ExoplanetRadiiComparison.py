@@ -85,4 +85,3 @@ collectionofdifsystems=[difsystemradii1031,difsystemradii114,difsystemradii169,d
 
 print(finalresult(proofrandplanets(collectionofsamesystemmeans),proofrandplanets(collectionofdifsystems)))
 
-samesystemradii1031=
